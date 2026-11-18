@@ -1,0 +1,1 @@
+Assistance from AI was taken on determining the command for generating the percentage price change of the items. First sorting the oldest date of the price of a good and then the latest.
