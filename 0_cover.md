@@ -2,4 +2,4 @@
 Student: Azhar Khan
 Course: ICA
 Instructor: Sir Irfan Nabi
-Due Date: 12th November 2026
+Due Date: 18th November 2026
